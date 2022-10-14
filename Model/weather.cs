@@ -1,4 +1,4 @@
-namespace Weather_Forecast_React_ASPNET_App.Models 
+namespace weather_app_backend.Models 
 {
     public class Weather
     {
