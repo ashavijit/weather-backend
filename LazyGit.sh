@@ -9,4 +9,8 @@ else
  git status
  echo "Pushing data to remote server!!!"
  git push -u origin master
+<<<<<<< HEAD
 fi
+=======
+
+>>>>>>> fd961a0bf253dae1ef595ded9dadca2e402d8f8c
